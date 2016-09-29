@@ -61,8 +61,8 @@ public class DoctorFinderTest{
 		assertEquals(2, docs.size());
 		assertEquals("Pediatric", docs.get(0).getSpecialty());
 		assertEquals("Pediatric", docs.get(1).getSpecialty());
-		assertEquals("Fremont", docs.get(0).getArea());
-		assertEquals("San Francisco", docs.get(1).getArea());
+		assertEquals("Female", docs.get(0).getGender());
+		assertEquals("Female", docs.get(1).getGender());
 	}
 
 	@Test

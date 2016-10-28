@@ -1,3 +1,7 @@
+What this app do:
+   
+
+
 Things I will add to improve the system
 
 * Priority Inputs - User can choose which attibutes have more priorities than others.

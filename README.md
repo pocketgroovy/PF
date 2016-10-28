@@ -1,6 +1,6 @@
 What this app do:
-   
-
+   find good matching of Doctors according to their location, gender, specialty and reviews.
+  
 
 Things I will add to improve the system
 
